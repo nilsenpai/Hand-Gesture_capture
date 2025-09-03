@@ -30,12 +30,6 @@ Press **q** to quit.
 - **Thumbs Up** → thumb up, others folded  
 
 ## 🎥 Demo
-
-
-
-
-
-https://github.com/user-attachments/assets/5c0d3153-9569-42a8-858b-e8bb874ebdd0
-
+https://drive.google.com/file/d/1UQoQjq47eGVG2TW2WAASGcGZM2wgwOiU/view?usp=sharing
 
 
