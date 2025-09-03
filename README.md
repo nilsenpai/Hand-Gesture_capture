@@ -32,6 +32,10 @@ Press **q** to quit.
 ## 🎥 Demo
 
 
-https://github.com/user-attachments/assets/4b75d92b-022b-4035-a02a-d236bff4ec6f
+
+
+
+https://github.com/user-attachments/assets/5c0d3153-9569-42a8-858b-e8bb874ebdd0
+
 
 
