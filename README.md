@@ -1,6 +1,6 @@
 # Real-Time Hand Gesture Recognition
 
-**Author**: Your Name  
+**Author**: Soumanil Sarkar  
 **Assignment**: AI Intern Assessment – Real-Time Static Hand Gesture Recognition  
 
 ## ✋ What it Does
