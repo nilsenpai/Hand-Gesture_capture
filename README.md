@@ -34,5 +34,4 @@ Press **q** to quit.
 
 https://github.com/user-attachments/assets/4b75d92b-022b-4035-a02a-d236bff4ec6f
 
-![demo1-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/4358c278-4743-4b86-932f-d95ae459e564)
 
